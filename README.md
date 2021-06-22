@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 ## Sobre mim
 
-Tenho 17 anos, atualmente estou cursando Análise e Desenvolvimento de Sistemas pelo IFPE- Instituto Federal de Pernambuco.
+Tenho 18 anos, atualmente estou cursando Análise e Desenvolvimento de Sistemas pelo IFPE- Instituto Federal de Pernambuco.
 Sou curiosa para aprender sempre mais de novas tecnologias e como elas podem atuar nos diversos projetos. Sou apaixonada pela aréa de Front End, mas também desenvolvo alguns projetos de automação com python. Também gosto muito de criar interfaces no Figma antes de codar.
 
 ## O que estudo e faço?
