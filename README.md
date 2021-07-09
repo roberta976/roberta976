@@ -23,6 +23,7 @@ Sou curiosa para aprender sempre mais de novas tecnologias e como elas podem atu
 ## O que estudo e faço?
 
 * Front-End : HTML, CSS e JavaScript
+* Java para pequenos projetos
 * Webdriver com Selenium e Python
 * Estudo sobre UI/UX Design
 * Crio interfaces no Figma
