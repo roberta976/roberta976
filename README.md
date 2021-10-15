@@ -1,4 +1,4 @@
-### Olá, Dev 👋 [you have been hacked]
+### Olá, Dev 👋 
 # [Roberta Vitória](.www.linkedin.com/in/roberta-vitória) 
 
 <!--
