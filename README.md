@@ -24,6 +24,8 @@ Sou curiosa para aprender sempre mais de novas tecnologias e como elas podem atu
 
 * Front-End : HTML, CSS e JavaScript
 * Java para pequenos projetos
+* Spring para aplicações Web
+* Programação para mobile com React Native
 * Webdriver com Selenium e Python
 * Estudo sobre UI/UX Design
 * Crio interfaces no Figma
