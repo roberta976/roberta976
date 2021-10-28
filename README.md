@@ -1,5 +1,5 @@
 ### Olá, Dev 👋 
-# [Roberta Vitória](.www.linkedin.com/in/roberta-vitória) 
+# [Roberta Vitória](https://www.linkedin.com/in/roberta-vit%C3%B3ria/) 
 
 <!--
 **roberta976/roberta976** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -40,4 +40,4 @@ Por fim, caso queria me contatar, segue abaixo meu contato:
 ## Meu contato
 
 
-####    [Linkendin](.www.linkedin.com/in/roberta-vitória) 
+####    [Linkendin](https://www.linkedin.com/in/roberta-vit%C3%B3ria) 
