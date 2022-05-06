@@ -31,7 +31,7 @@ Sou curiosa para aprender sempre mais de novas tecnologias e como elas podem atu
 * Crio interfaces no Figma
 
 
-##Linguagens e ferramentas**
+## Linguagens e ferramentas
 
 ![git](https://user-images.githubusercontent.com/66263681/117510086-d0850880-af61-11eb-9295-d21821cc3294.png)
 
