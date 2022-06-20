@@ -29,6 +29,7 @@ Sou curiosa para aprender sempre mais de novas tecnologias e como elas podem atu
 * Webdriver com Selenium e Python
 * Estudo sobre UI/UX Design
 * Crio interfaces no Figma
+* React.js
 
 
 ## Linguagens e ferramentas
