@@ -30,6 +30,8 @@ Sou curiosa para aprender sempre mais de novas tecnologias e como elas podem atu
 * Estudo sobre UI/UX Design
 * Crio interfaces no Figma
 * React.js
+* PHP
+* SQL
 
 
 ## Linguagens e ferramentas
