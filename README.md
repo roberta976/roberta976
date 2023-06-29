@@ -17,24 +17,24 @@ Here are some ideas to get you started:
 -->
 ## Sobre mim
 
-Tenho 19 anos, atualmente estou cursando Análise e Desenvolvimento de Sistemas pelo IFPE- Instituto Federal de Pernambuco.
-Sou curiosa para aprender sempre mais de novas tecnologias e como elas podem atuar nos diversos projetos. Sou apaixonada pela aréa de Front End, mas também desenvolvo alguns projetos de automação com python. Também gosto muito de criar interfaces no Figma antes de codar.
+I'm 20y, I'm currently studying Systems Analysis and Development at IFPE- Instituto Federal de Pernambuco.
+I'm always curious to learn more about new technologies and how they can work in different projects. I'm passionate about the Front End area, but I also develop some automation projects with Python. I also really like creating interfaces in Figma before coding.
 
-## O que estudo e faço?
+## Technologies and skills
 
 * Front-End : HTML, CSS e JavaScript
-* Java para pequenos projetos
-* Spring para aplicações Web
-* Programação para mobile com React Native
-* Webdriver com Selenium e Python
-* Estudo sobre UI/UX Design
-* Crio interfaces no Figma
+* Java for small projects
+* Spring for Web Applications
+* Mobile programming with React Native
+* Webdriver with Selenium and Python
+* Study on UI/UX Design
+* I create interfaces in Figma
 * React.js
 * PHP
 * SQL
 
 
-## Linguagens e ferramentas
+## Tools and Languages
 
 ![git](https://user-images.githubusercontent.com/66263681/117510086-d0850880-af61-11eb-9295-d21821cc3294.png)
 
