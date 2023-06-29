@@ -38,9 +38,8 @@ I'm always curious to learn more about new technologies and how they can work in
 
 ![Design sem nome](https://github.com/roberta976/roberta976/assets/66263681/076efadd-b41d-4bf4-b0d5-bd0a4964bf34)
 
-Por fim, caso queria me contatar, segue abaixo meu contato:
 
-## Meu contato
+## Contact me
 
 
 ####    [Linkendin](https://www.linkedin.com/in/roberta-vit%C3%B3ria) 
