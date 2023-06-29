@@ -36,7 +36,8 @@ I'm always curious to learn more about new technologies and how they can work in
 
 ## Tools and Languages
 
-![git](https://user-images.githubusercontent.com/66263681/117510086-d0850880-af61-11eb-9295-d21821cc3294.png)
+![git](![Design sem nome](https://github.com/roberta976/roberta976/assets/66263681/076efadd-b41d-4bf4-b0d5-bd0a4964bf34)
+)
 
 Por fim, caso queria me contatar, segue abaixo meu contato:
 
