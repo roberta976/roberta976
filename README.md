@@ -1,4 +1,4 @@
-### Olá, Dev 👋 
+### Hi, Dev 👋 
 # [Roberta Vitória](https://www.linkedin.com/in/roberta-vit%C3%B3ria/) 
 
 <!--
@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-## Sobre mim
+## About Me
 
 I'm 20y, I'm currently studying Systems Analysis and Development at IFPE- Instituto Federal de Pernambuco.
 I'm always curious to learn more about new technologies and how they can work in different projects. I'm passionate about the Front End area, but I also develop some automation projects with Python. I also really like creating interfaces in Figma before coding.
